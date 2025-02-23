@@ -1,8 +1,28 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: black;
 
-.input{
-    color:red;
-    border: 2px solid red ;
 }
-.countMax{
-    color: red
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
+
+.app > div {
+    margin-right: 50px;
+}
+
+
+
+
+
