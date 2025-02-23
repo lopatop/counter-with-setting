@@ -1,11 +1,13 @@
 import './App.css'
-import {CounterW2} from "./components /CounterW2.tsx";
+import { CounterWithSetting } from "./components /CounterWithSetting.tsx"
 
 export const App = () => {
 
-    return (
-    <div className = "app" >
-    <CounterW2/>
-</div>
-)
+
+
+  return (
+      <div className="app">
+        <CounterWithSetting/>
+      </div>
+  )
 }
