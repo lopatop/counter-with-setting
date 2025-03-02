@@ -5,22 +5,17 @@
     padding: 0;
     box-sizing: border-box;
     font-size: 14px;
-    background-color: black;
 
 }
 
-.app {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+/*.app {*/
 
-}
 
-.app > div {
-    margin-right: 50px;
-}
+/*}*/
+
+/*.app > div {*/
+/*    margin-right: 50px;*/
+/*}*/
 
 
 
