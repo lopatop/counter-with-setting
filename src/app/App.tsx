@@ -1,6 +1,6 @@
 import { S } from './_styled.ts'
-import './App.css'
-import { CounterWithSetting } from "./components /CounterWithSetting.tsx"
+import '../App.css'
+import { CounterWithSetting } from "../components /CounterWithSetting.tsx"
 
 export const App = () => {
 
